@@ -1,1 +1,1 @@
-#Spring Boot Student Application
+[Installation](#installation)
